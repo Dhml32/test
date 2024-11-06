@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sayil\\.nuget\\packages\\": {}
+    "C:\\Users\\theon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\theon\\Documents\\GitHub\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\sayil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\test\\obj\\",
+      "projectPath": "C:\\Users\\theon\\Documents\\GitHub\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\theon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\theon\\Documents\\GitHub\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sayil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\theon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
