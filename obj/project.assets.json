@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\H\\.nuget\\packages\\": {}
+    "C:\\Users\\theon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\H\\Documents\\GitHub\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\theon\\Documents\\GitHub\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\H\\Documents\\GitHub\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\H\\Documents\\GitHub\\test\\obj\\",
+      "projectPath": "C:\\Users\\theon\\Documents\\GitHub\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\theon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\theon\\Documents\\GitHub\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\theon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
